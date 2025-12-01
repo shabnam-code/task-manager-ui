@@ -1,5 +1,4 @@
 # Summary
-# Summary
 1. This is Full Stack project with React, node and mongo db
    a. Frontend: Used functional component, redux thunk, react routes and material ui
    b. Backend: https://github.com/shabnam-code/task-manager-api
