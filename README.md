@@ -1,11 +1,12 @@
 # Summary
-1. This is Full Stack project with React, node and mongo db
-   1. Frontend: Used functional component, redux thunk, react routes and material ui
-   2. Backend: [task-manager-api](https://github.com/shabnam-code/task-manager-api)
-3. Functionality
-   1. Normal User: Can create and edit tasks
-   2. Admin User: Can create, edit as well as delete tasks
-3. Demo Video: [Link](https://drive.google.com/file/d/1l2XnvV6-K0N-ERxIJ0SspsYy6thK6F4D/view?usp=drive_link) 
+
+1. This is Full Stack project with React, Node.js, and MongoDB
+   1. **Frontend**: Current Repo, created using React, Routes, Redux Thunk, Material UI.
+   2. **Backend**: [task-manager-api](https://github.com/shabnam-code/task-manager-api) created using node, express and mongodb
+2. **Functionality**
+   1. **Normal User**: Can create and edit tasks.
+   2. **Admin User**: Can create, edit, as well as delete tasks.
+3. **Demo Video**: [Link](https://drive.google.com/file/d/1l2XnvV6-K0N-ERxIJ0SspsYy6thK6F4D/view?usp=drive_link)
 
 
 ## Available Scripts
