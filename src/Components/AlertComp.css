@@ -1,0 +1,19 @@
+/* Error alert style */
+.alert-error {
+  color: white;
+  background-color: red;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Success alert style */
+.alert-success {
+  color: white;
+  background-color: green;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  text-align: center;
+}
