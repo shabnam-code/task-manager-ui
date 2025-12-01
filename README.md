@@ -1,6 +1,11 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Summary
+# Summary
+1. This is Full Stack project with React, node and mongo db
+   a. Frontend: Used functional component, redux thunk, react routes and material ui
+   b. Backend: https://github.com/shabnam-code/task-manager-api
+3. Functionality
+   1. Normal User: Can create and edit tasks
+   2. Admin User: Can create, edit as well as delete tasks
 
 ## Available Scripts
 
